@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "50db83dc-a899-409c-8075-bd1316ee9ab2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "PaoOne": {
+      "ver": "1.0.3",
+      "uuid": "1ad3e464-280e-4a03-8cbb-f81ca4ee1c2d",
+      "rawTextureUuid": "50db83dc-a899-409c-8075-bd1316ee9ab2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 3,
+      "trimX": 34,
+      "trimY": 52,
+      "width": 49,
+      "height": 83,
+      "rawWidth": 120,
+      "rawHeight": 193,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

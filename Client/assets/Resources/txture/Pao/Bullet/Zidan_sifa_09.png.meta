@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "eed238a8-8809-44e6-a865-29f68fc8b0e0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Zidan_sifa_09": {
+      "ver": "1.0.3",
+      "uuid": "7bbd47e1-6c8c-4072-8c7e-0f0980dfeed2",
+      "rawTextureUuid": "eed238a8-8809-44e6-a865-29f68fc8b0e0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 5.5,
+      "trimX": 12,
+      "trimY": 20,
+      "width": 73,
+      "height": 49,
+      "rawWidth": 100,
+      "rawHeight": 100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

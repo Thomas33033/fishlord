@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9df66e1d-03ca-4966-8595-683de640c250",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Zidan_sanfa_06": {
+      "ver": "1.0.3",
+      "uuid": "8b44db99-f249-4bda-9b37-395cea93c136",
+      "rawTextureUuid": "9df66e1d-03ca-4966-8595-683de640c250",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -8.5,
+      "trimX": 13,
+      "trimY": 17,
+      "width": 73,
+      "height": 83,
+      "rawWidth": 100,
+      "rawHeight": 100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

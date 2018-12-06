@@ -1,0 +1,56 @@
+2018-12-06T14:19:29.381Z - normal: Load ~/.CocosCreator/settings.json
+2018-12-06T14:19:29.396Z - normal: checking language setting...
+2018-12-06T14:19:29.396Z - normal: Language: zh
+2018-12-06T14:19:32.344Z - success: protocol editor-framework registered
+2018-12-06T14:19:32.344Z - success: protocol app registered
+2018-12-06T14:19:32.344Z - success: protocol theme registered
+2018-12-06T14:19:32.344Z - success: protocol packages registered
+2018-12-06T14:19:32.344Z - success: protocol unpack registerred
+2018-12-06T14:19:32.344Z - success: protocol disable-commonjs registerred
+2018-12-06T14:19:32.500Z - normal: connected!
+2018-12-06T14:19:32.500Z - normal: Check project D:\Html5WorkSpace\fishlord\trunk\Client
+2018-12-06T14:19:32.500Z - normal: Initializing Cocos2d
+2018-12-06T14:19:33.016Z - normal: Initializing Asset Database
+2018-12-06T14:19:33.080Z - success: protocol uuid registerred
+2018-12-06T14:19:33.080Z - success: protocol db registerred
+2018-12-06T14:19:33.080Z - success: protocol thumbnail registerred
+2018-12-06T14:19:33.080Z - normal: Loading editor/builtin packages
+2018-12-06T14:19:33.126Z - success: anysdk loaded
+2018-12-06T14:19:33.332Z - success: assets loaded
+2018-12-06T14:19:33.332Z - success: builder loaded
+2018-12-06T14:19:33.332Z - success: cocos-analytics loaded
+2018-12-06T14:19:33.332Z - success: console loaded
+2018-12-06T14:19:33.397Z - success: fb-instant-games loaded
+2018-12-06T14:19:33.397Z - success: hierarchy loaded
+2018-12-06T14:19:33.397Z - success: inspector loaded
+2018-12-06T14:19:33.412Z - success: keystore loaded
+2018-12-06T14:19:33.412Z - success: node-library loaded
+2018-12-06T14:19:33.412Z - success: package-asset loaded
+2018-12-06T14:19:33.412Z - success: preferences loaded
+2018-12-06T14:19:33.412Z - success: project-exporter loaded
+2018-12-06T14:19:33.443Z - success: project-importer loaded
+2018-12-06T14:19:33.443Z - success: project-settings loaded
+2018-12-06T14:19:33.459Z - success: ui-kit loaded
+2018-12-06T14:19:33.459Z - success: ui-grid loaded
+2018-12-06T14:19:33.475Z - success: scene loaded
+2018-12-06T14:19:33.475Z - success: sprite-editor loaded
+2018-12-06T14:19:33.475Z - success: store loaded
+2018-12-06T14:19:33.503Z - success: timeline loaded
+2018-12-06T14:19:33.503Z - normal: Loading builtin packages
+2018-12-06T14:19:33.534Z - success: asset-db-debugger loaded
+2018-12-06T14:19:33.550Z - success: code-editor loaded
+2018-12-06T14:19:33.551Z - success: color-picker loaded
+2018-12-06T14:19:33.558Z - success: package-manager loaded
+2018-12-06T14:19:33.561Z - success: qqplay-adapter loaded
+2018-12-06T14:19:33.566Z - success: sdkbox loaded
+2018-12-06T14:19:33.566Z - success: tester loaded
+2018-12-06T14:19:33.582Z - success: ui-kit-preview-extra loaded
+2018-12-06T14:19:33.582Z - success: ui-kit-preview loaded
+2018-12-06T14:19:33.582Z - success: ui-tree loaded
+2018-12-06T14:19:33.582Z - success: weapp-adapter loaded
+2018-12-06T14:19:35.647Z - normal: Initializing project D:\Html5WorkSpace\fishlord\trunk\Client
+2018-12-06T14:19:35.657Z - normal: Loading packages
+2018-12-06T14:19:35.667Z - normal: Watching packages
+2018-12-06T14:19:36.139Z - normal: Run Application
+2018-12-06T14:19:37.440Z - success: preview server running at http://localhost:7456
+2018-12-06T14:19:44.704Z - normal: 1.9.2

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "4150c850-6535-4549-90e8-026cf10a26af",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "GoldBullet4": {
+      "ver": "1.0.3",
+      "uuid": "71461c28-ccd8-419d-861e-94e6c3a5d6d9",
+      "rawTextureUuid": "4150c850-6535-4549-90e8-026cf10a26af",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 2,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 69,
+      "height": 150,
+      "rawWidth": 72,
+      "rawHeight": 154,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

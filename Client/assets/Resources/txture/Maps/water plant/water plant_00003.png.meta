@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "7af1d94d-1bed-494d-a210-dc792c48897b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "water plant_00003": {
+      "ver": "1.0.3",
+      "uuid": "277eae40-cc14-43e9-9c43-d8434fcc87d3",
+      "rawTextureUuid": "7af1d94d-1bed-494d-a210-dc792c48897b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": -0.5,
+      "trimX": 6,
+      "trimY": 9,
+      "width": 60,
+      "height": 113,
+      "rawWidth": 70,
+      "rawHeight": 130,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "efc4b744-fc42-4b8f-9785-56e341330604",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Zidan_danfa_03": {
+      "ver": "1.0.3",
+      "uuid": "ff58547c-8f2b-42d5-9413-0bc13c5f42eb",
+      "rawTextureUuid": "efc4b744-fc42-4b8f-9785-56e341330604",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": -9.5,
+      "trimX": 36,
+      "trimY": 22,
+      "width": 30,
+      "height": 75,
+      "rawWidth": 100,
+      "rawHeight": 100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

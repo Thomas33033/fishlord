@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "bacab63c-25a3-47b4-91bb-9a87ff7c3a9e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Zidan_shuangfa_09": {
+      "ver": "1.0.3",
+      "uuid": "07bc113a-afe8-4e28-9fae-2963cf61eef6",
+      "rawTextureUuid": "bacab63c-25a3-47b4-91bb-9a87ff7c3a9e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -8.5,
+      "trimX": 21,
+      "trimY": 22,
+      "width": 59,
+      "height": 73,
+      "rawWidth": 100,
+      "rawHeight": 100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
